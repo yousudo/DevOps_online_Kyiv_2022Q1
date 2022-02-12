@@ -2,15 +2,16 @@
 
 # Working with Git
 ---
-#####git config --global user.name "Yevhen Rudyk"
-####git config --global user.email mr.yrudyk@gmail.com
-####git config --global core.editor nano
+
+git config --global user.name "Yevhen Rudyk"
+git config --global user.email mr.yrudyk@gmail.com
+git config --global core.editor nano
 
 ---
-####git init
-####mkdir m1/task1.1
-####touch m1/task1.1/readme.txt
-####git add .
+git init
+mkdir m1/task1.1
+touch m1/task1.1/readme.txt
+git add .
 git commit -m "Init commit"
 git checkout -b develop 
 touch m1/task1.1/index.html
