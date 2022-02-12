@@ -3,7 +3,7 @@
 # Working with Git
 ---
 
-#git config --global user.name "Yevhen Rudyk"
+##### git config --global user.name "Yevhen Rudyk"
 git config --global user.email mr.yrudyk@gmail.com
 git config --global core.editor nano
 
