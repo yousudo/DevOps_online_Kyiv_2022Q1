@@ -1,0 +1,15 @@
+76359ed HEAD@{0}: merge develop: Fast-forward
+46ce037 HEAD@{1}: checkout: moving from develop to master
+76359ed HEAD@{2}: commit (merge): Resolve conflict
+171ae7a HEAD@{3}: merge images: Fast-forward
+543fcad HEAD@{4}: checkout: moving from styles to develop
+da5b8a6 HEAD@{5}: commit: Add link to html
+62411e5 HEAD@{6}: commit: Add styles file
+543fcad HEAD@{7}: checkout: moving from develop to styles
+543fcad HEAD@{8}: checkout: moving from images to develop
+171ae7a HEAD@{9}: commit: Add images link to html file
+4de6851 HEAD@{10}: commit: Add images
+543fcad HEAD@{11}: checkout: moving from develop to images
+543fcad HEAD@{12}: commit: Create .html file
+46ce037 HEAD@{13}: checkout: moving from master to develop
+46ce037 HEAD@{14}: commit (initial): Init commit
