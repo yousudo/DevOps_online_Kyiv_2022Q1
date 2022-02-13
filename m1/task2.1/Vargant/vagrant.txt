@@ -1,9 +1,0 @@
-1. Создаем и конфижем виртуальную машину в VMBox
-2. Загружаем образ в вагрант " vagrant package --base 'ubnVM1' --output ubnVM1_template
-3. Добавляем в список доступных образов 
-4. Конфиг вагрантфайл 
-   Vagrant.configure(2) do |config|
-  	config.vm.box = "ubnVM1"
-   end
-5. Запускаем вагрант машину.
-6. VagrantDone
