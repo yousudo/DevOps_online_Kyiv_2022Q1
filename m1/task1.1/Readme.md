@@ -47,6 +47,6 @@
 ---
 
 # Who are you devops
-DevOps is a methodology (a state of mind and soul). It embodies all the best qualities from a developer, tester, system administrator. He is the link between them and his work that prevents them from killing each other. Devops - automates everything that moves and what does not move, it moves and automates.
+DevOps is a methodology (state of mind). Methodology - automation, continuous code delivery. It embodies all the best qualities from a developer, tester, system administrator. He is the link between them. Devops - automates everything that moves and what does not move, moves and automates.
 
 [Up](#anchor)
