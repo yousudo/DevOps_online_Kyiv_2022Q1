@@ -8,9 +8,9 @@
 ###### git config --global core.editor nano
 
 ---
-###### git init
-###### mkdir m1/task1.1
-###### touch m1/task1.1/readme.txt
+git init <br>
+mkdir m1/task1.1 <br>
+touch m1/task1.1/readme.txt <br>
 ###### git add .
 ###### git commit -m "Init commit"
 ###### git checkout -b develop 
