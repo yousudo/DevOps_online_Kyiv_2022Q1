@@ -23,4 +23,4 @@
 
 ___
 
-#### [My website](http://rudyk-it.pp.ua/)
+#### [My website](http://rudyk-it.pp.ua.s3-website.eu-central-1.amazonaws.com)
