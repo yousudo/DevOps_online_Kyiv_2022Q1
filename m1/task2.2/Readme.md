@@ -17,3 +17,5 @@
   + [Create Bucket](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.2/AWS_shot/Create%20S3%20site/Create2_Bucket.png)
   + [Create alias](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.2/AWS_shot/Create%20S3%20site/Create_alias.png)
   + [Public access](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.2/AWS_shot/Create%20S3%20site/Public_access.png)
+
+___
