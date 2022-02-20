@@ -5,6 +5,7 @@
 
 1. [Configuring](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.2/AWS_shot/CreateEC2/4target.png) and [starting](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.2/AWS_shot/CreateEC2/4target(2).png) __EC2__.
   1.1. [Create a snapshot instance](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.2/AWS_shot/Create_snapshot_instance/Golden-Copy_instance.png) and [create a Disk.](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.2/AWS_shot/Createdisk/Create_disk.png)
+  
   1.2. [Launch the second instance from backup](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.2/AWS_shot/Start%20My%20AMIs%26atach%20Disk/AMI_instance.png)
   1.3. [Attach disk to the new instance.](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.2/AWS_shot/Start%20My%20AMIs%26atach%20Disk/Atach_disk.png)
 
