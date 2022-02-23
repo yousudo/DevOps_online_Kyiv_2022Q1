@@ -3,7 +3,7 @@
 # WORK WITH VIRTUALBOX
 
 ---
-##### 1. [Create VM1.](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.1/VMBox/%D0%A1reateVM.png)
+##### 1. ![Create VM1.](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.1/VMBox/%D0%A1reateVM.png)
 ##### 2. [Creation, installation, management of the virtual machine.](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.1/VMBox/Control_VM.png)
 
 ##### 3. [Cloning a VM.](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task2.1/VMBox/CloneVM.png)
