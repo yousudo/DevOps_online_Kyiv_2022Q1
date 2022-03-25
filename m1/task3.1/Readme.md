@@ -4,12 +4,12 @@
 [Packet_tracer_Task_3.1](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/raw/develop/m1/task3.1/PacketTracer_3.1.pkt)
 
 ##### Ping Enterprise network
-![Enterprise](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.1/ping_Enterprise_clien1.png "Описание будет тут")
+![Enterprise](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.1/ping_Enterprise_clien1.png "Enterprise")
 ##### Ping Data Center network
-![Data_Center](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.1/ping_DataCenter_DnsServer.png "Описание будет тут")
+![Data_Center](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.1/ping_DataCenter_DnsServer.png "Data_Center")
 ##### Ping Home Office network
-![Home_Office](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.1/Ping_HomeRouter.png "Описание будет тут")
+![Home_Office](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.1/Ping_HomeRouter.png "Home_Office")
 
 ---
 # Wireshark
-![Wireshark](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.1/Ping_HomeRouter.png "Wireshark")
+![Wireshark](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.1/Wireshark.png "Wireshark")
