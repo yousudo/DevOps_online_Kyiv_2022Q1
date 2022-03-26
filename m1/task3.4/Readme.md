@@ -10,7 +10,7 @@
 ##### Config DHCP Server
 ![dhcp_conf](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.4/config_dhcp_serv.png "dhcp_conf")
 ##### Config Home Router
-![dhcp_home](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.4/DHCP_Home.png"dhcp_home")
+![dhcp_home](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.4/DHCP_Home.png "dhcp_home")
 
 ---
 ## DNS
