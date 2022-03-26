@@ -14,8 +14,10 @@
 ##### Ping & trace with mask /24
 ![mask /24](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.2/ping_trace_serv.png "mask /24")
 ##### Ping & trace with mask /26
++ This happens because the vlan is not configured and the clients, according to the 26th mask, are on different subnets and do not see each other, so the request goes further to the router and asks if it has information about this ip, it looks in its route table.
 ![Mask_to_26](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.2/ping_no_vlan.png "Mask_to_26")
 ##### VLAN 
++ The switch sees that the ports / interfaces are in different vlans and does not see forwarded ports,  the packet does not reach the router and is cut off.
 ![vlan](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.2/vlan_on.png "vlan")
 ##### Trank
 ![Trank](https://github.com/yousudo/DevOps_online_Kyiv_2022Q1/blob/develop/m1/task3.2/vlan_ping_trank.png "Trank")
